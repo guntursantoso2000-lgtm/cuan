@@ -1,0 +1,2 @@
+# cuan
+penghasil cuan 
